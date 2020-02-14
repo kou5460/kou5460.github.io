@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Aeronautics & Astronautics, University of Washington, 2018 - Current
+* B.S. in Aerospace Engineering, Nihon University, 2018
 
 Work experience
 ======
