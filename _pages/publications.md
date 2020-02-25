@@ -14,4 +14,4 @@ Journal Publications
 Conference Presentations
 =====
 * **K. Yamaguchi**, H. Yasuda, K. Tsujikawa, T. Kunimine, J. Yang, “Combinatorial Optimization of AuxeticOrigami Tessellations”,SPIE Smart Structures+Nondestructive Evaluation, Anaheim, CA, Apr. 2020.
-* **K. Yamaguchi**, H. Yasuda, Y. Miyazawa, R. Wiebe, J. Raney, J. Yang, “Data-driven prediction and analysisof chaotic folding motions in bistable origami”,Physics Informed Machine Learning Workshop, Seattle,WA, Jun. 2019 (Poster presentation).
+* **K. Yamaguchi**, H. Yasuda, Y. Miyazawa, R. Wiebe, J. Raney, J. Yang, “Data-driven prediction and analysisof chaotic folding motions in bistable origami”,Physics Informed Machine Learning Workshop, Seattle, WA, Jun. 2019 (Poster presentation).
