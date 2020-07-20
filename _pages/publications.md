@@ -14,9 +14,9 @@ Journal Publications
 
 Patents
 =====
-* J. Yang, H. Yasuda, **K. Yamaguchi**, Y. Miyazawa, “Aircraft wing motion prediction systems and associatedmethod”, Provisional patent filing in progress
+* J. Yang, H. Yasuda, **K. Yamaguchi**, Y. Miyazawa, “Aircraft wing motion prediction systems and associated method”, Provisional patent filing in progress
 
 Conference Presentations
 =====
 * **K. Yamaguchi**, H. Yasuda, K. Tsujikawa, T. Kunimine, J. Yang, “Combinatorial Optimization of Auxetic Origami Tessellations”, SPIE Smart Structures+Nondestructive Evaluation, Anaheim, CA, Apr. 2020.
-* **K. Yamaguchi**, H. Yasuda, Y. Miyazawa, R. Wiebe, J. Raney, J. Yang, “Data-driven prediction and analysisof chaotic folding motions in bistable origami”,Physics Informed Machine Learning Workshop, Seattle, WA, Jun. 2019 (Poster presentation).
+* **K. Yamaguchi**, H. Yasuda, Y. Miyazawa, R. Wiebe, J. Raney, J. Yang, “Data-driven prediction and analysis of chaotic folding motions in bistable origami”,Physics Informed Machine Learning Workshop, Seattle, WA, Jun. 2019 (Poster presentation).
