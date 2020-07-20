@@ -14,7 +14,7 @@ Journal Publications
 
 Patents
 =====
-* J. Yang, H. Yasuda, K. Yamaguchi, Y. Miyazawa, “Aircraft wing motion prediction systems and associatedmethod”, Provisional patent filing in progress
+* J. Yang, H. Yasuda, **K. Yamaguchi**, Y. Miyazawa, “Aircraft wing motion prediction systems and associatedmethod”, Provisional patent filing in progress
 
 Conference Presentations
 =====
